@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@model IEnumerable <EntityModels.StudtentModels>
+<h2>Index</h2>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(m => m.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.Graduation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.Major)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.School)
+        </th>
+    </tr>
+   
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(Item => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(Item => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(Item => item.Graduation)
+            </td>
+            <td>
+                @Html.DisplayFor(Item => item.Major)
+            </td>
+            <td>
+                @Html.DisplayFor(Item => item.School)
+            </td>
+            </tr>
+    }
+
+</table>
+

@@ -1,0 +1,15 @@
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\bin\Debug\Autofac.Configuration.dll
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\bin\Debug\Autofac.dll
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\bin\Debug\Autofac.xml
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\bin\Debug\Autofac.Configuration.xml
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\obj\Debug\AutoFacTest.csprojResolveAssemblyReference.cache
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\学习\222\git2\ZMFrameWork\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\工作\邹敏的框架\ZMFramework(大型项目)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\工作\邹敏的框架\ZMFramework(大型项目)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\工作\邹敏的框架\ZMFramework(大型项目)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

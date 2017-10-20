@@ -1,0 +1,9 @@
+D:\学习\222\git2\Solution1\ZM.CMS.Services\bin\Debug\ZM.CMS.Services.dll
+D:\学习\222\git2\Solution1\ZM.CMS.Services\bin\Debug\ZM.CMS.Services.pdb
+D:\学习\222\git2\Solution1\ZM.CMS.Services\obj\Debug\ZM.CMS.Services.csprojResolveAssemblyReference.cache
+D:\学习\222\git2\Solution1\ZM.CMS.Services\obj\Debug\ZM.CMS.Services.dll
+D:\学习\222\git2\Solution1\ZM.CMS.Services\obj\Debug\ZM.CMS.Services.pdb
+D:\学习\222\git2\Solution1\ZM.CMS.Services\bin\Debug\EntityModels.dll
+D:\学习\222\git2\Solution1\ZM.CMS.Services\bin\Debug\ZM.CMS.Repository.dll
+D:\学习\222\git2\Solution1\ZM.CMS.Services\bin\Debug\EntityModels.pdb
+D:\学习\222\git2\Solution1\ZM.CMS.Services\bin\Debug\ZM.CMS.Repository.pdb

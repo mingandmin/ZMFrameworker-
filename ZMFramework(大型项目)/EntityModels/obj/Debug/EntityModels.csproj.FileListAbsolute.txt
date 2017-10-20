@@ -1,0 +1,5 @@
+D:\学习\222\git2\Solution1\EntityModels\bin\Debug\EntityModels.dll
+D:\学习\222\git2\Solution1\EntityModels\bin\Debug\EntityModels.pdb
+D:\学习\222\git2\Solution1\EntityModels\obj\Debug\EntityModels.dll
+D:\学习\222\git2\Solution1\EntityModels\obj\Debug\EntityModels.pdb
+D:\学习\222\git2\Solution1\EntityModels\obj\Debug\EntityModels.csprojResolveAssemblyReference.cache
