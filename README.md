@@ -5,3 +5,4 @@
 3 Excel操作工厂 ExcelServices
 4 动态实体工厂  DynamicBuilderServices
 5 快速操作数据库工厂 快速操作数据库执行存储过程或SQL语句 DapperServices
+6 提供restful接口服务
